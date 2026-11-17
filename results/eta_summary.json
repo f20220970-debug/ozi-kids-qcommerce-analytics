@@ -1,0 +1,36 @@
+{
+ "_note": "model_*_same_reliability uses the buffer fixed once on Nov-Dec 2017",
+ "train_orders": 30865,
+ "calib_orders": 12794,
+ "test_orders": 52768,
+ "p50_mae_days": 4.88,
+ "baseline_mae_global_median": 6.25,
+ "baseline_mae_route_median": 5.3,
+ "marketplace_avg_promise_days": 22.8,
+ "marketplace_kept_pct": 90.6,
+ "model_avg_promise_days_same_reliability": 26.1,
+ "model_kept_pct_same_reliability": 94.8,
+ "feature_importance_mae_increase_days": {
+  "customer_state": 0.36,
+  "same_state": 0.36,
+  "seller_prev_handling": 0.35,
+  "dist_km": 0.33,
+  "freight": 0.07,
+  "dow": 0.06
+ },
+ "chosen_policy": "p80 model + weekly rolling buffer, 90% target",
+ "chosen_avg_promise_days": 22.7,
+ "chosen_kept_pct": 92.2,
+ "kept_diff_pp_vs_marketplace_95ci": [
+  0.6,
+  1.6,
+  2.6
+ ],
+ "promise_days_diff_vs_marketplace_95ci": [
+  -1.8,
+  -0.1,
+  1.4
+ ],
+ "missed_promises_marketplace_pct": 9.4,
+ "missed_promises_model_pct": 7.8
+}

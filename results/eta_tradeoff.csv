@@ -1,0 +1,13 @@
+policy,target_kept,avg_days_promised,promise_kept_pct,kids_promise_kept_pct
+marketplace promise (actual),,22.8,90.6,90.5
+model p50 + calibrated buffer,80.0,19.8,88.6,88.7
+model p80 + calibrated buffer,90.0,25.4,94.4,93.8
+model p90 + calibrated buffer,93.0,28.7,96.1,95.4
+model p90 + calibrated buffer,95.0,31.7,97.2,97.0
+model p90 + calibrated buffer,97.0,36.3,98.2,98.0
+model p50 + rolling weekly buffer,80.0,17.9,85.0,84.8
+model p80 + rolling weekly buffer,90.0,22.7,92.2,91.8
+model p90 + rolling weekly buffer,93.0,25.2,94.5,93.7
+model p90 + rolling weekly buffer,95.0,27.7,96.0,95.7
+model p90 + rolling weekly buffer,97.0,31.7,97.5,97.3
+same promise for everyone (29 days),90.6,29.0,94.5,94.2

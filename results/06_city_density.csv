@@ -1,0 +1,11 @@
+customer_city,customer_state,kids_orders,avg_delivery_days,pct_late,avg_score,pct_of_kids_orders,cum_pct
+sao paulo,SP,1040,7.7,4.8,4.24,15.7,15.7
+rio de janeiro,RJ,482,14.4,13.1,4.12,7.3,23.0
+belo horizonte,MG,223,11.0,6.7,4.11,3.4,26.3
+brasilia,DF,154,12.9,7.8,3.94,2.3,28.7
+curitiba,PR,119,10.7,6.7,4.29,1.8,30.5
+campinas,SP,105,9.4,5.7,4.2,1.6,32.0
+porto alegre,RS,91,13.1,9.9,4.33,1.4,33.4
+sao bernardo do campo,SP,63,8.6,14.3,4.27,1.0,34.4
+salvador,BA,63,20.8,15.9,3.69,1.0,35.3
+osasco,SP,58,7.2,5.2,4.14,0.9,36.2

@@ -1,0 +1,3 @@
+segment,orders,avg_order_value_brl,median_order_value_brl,avg_items,pct_multi_item,freight_pct_of_gmv,pct_multi_seller
+kids,6626,133.4,88.9,1.08,6.5,16.5,1.8
+other,89852,137.3,86.0,1.15,10.2,16.7,1.3

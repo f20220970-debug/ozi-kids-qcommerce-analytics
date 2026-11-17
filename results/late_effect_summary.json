@@ -1,0 +1,11 @@
+{
+ "orders": 95306,
+ "late_share_pct": 7.9,
+ "odds_ratio_late_with_controls": 3.87,
+ "avg_effect_pp_if_late": 18.2,
+ "avg_effect_pp_95ci": [
+  16.6,
+  19.5
+ ],
+ "kids_orders": 6532
+}

@@ -1,0 +1,12 @@
+{
+ "skus": 40,
+ "weeks_test": 34,
+ "best_forecast": "4-week avg",
+ "avg_weekly_units_per_sku_2018": 0.48,
+ "weeks_with_zero_sales_pct": 72.5,
+ "critical_ratio": 0.857,
+ "assumptions": {
+  "gross_margin": 0.3,
+  "holding_cost_per_week_of_price": 0.05
+ }
+}

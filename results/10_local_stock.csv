@@ -1,0 +1,5 @@
+region,stock,orders,avg_delivery_days,pct_late,avg_score
+customer in SP,seller in another state,9848,11.3,4.0,4.23
+customer in SP,seller in same state,30646,7.9,4.7,4.25
+customer outside SP,seller in another state,52047,15.9,8.8,4.07
+customer outside SP,seller in same state,3929,7.9,3.4,4.41

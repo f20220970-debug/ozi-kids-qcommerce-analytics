@@ -1,0 +1,6 @@
+policy,fill_rate_pct,stockout_weeks_pct,avg_units_stocked_per_sku_week,leftover_units_per_sku_week,profit_index_brl
+stock = forecast (no buffer),62.61,11.03,0.74,0.44,13904.63
+service level 80%,67.93,9.71,0.88,0.55,14867.84
+service level 90%,73.4,8.16,1.12,0.76,14223.32
+newsvendor (86%),72.34,8.46,1.04,0.69,14372.45
+service level 97%,87.99,3.75,1.99,1.57,10447.43

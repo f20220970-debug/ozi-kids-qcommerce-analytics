@@ -1,0 +1,7 @@
+forecast,WAPE_pct,bias_pct
+always 0 (baseline),100.0,-100.0
+4-week avg,109.9,4.3
+last week,113.1,0.9
+exp. smoothing (a=0.3),113.2,9.1
+8-week avg,122.4,16.4
+Croston-SBA (intermittent),174.5,28.7
